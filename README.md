@@ -18,6 +18,14 @@ Here you can find complete tutorial series and each video link.
  -->
 
 # Project Demo
+![React Navigation v5 Mix App iPhone Demo](https://raw.githubusercontent.com/itzpradip/react-navigation-v5-mix/master/output_86ChvH.gif)
+### iPhone Demo
+
+# Dark Mode
+![React Navigation v5 Mix App iPhone Demo](https://raw.githubusercontent.com/itzpradip/react-navigation-v5-mix/master/output_H9OEa2.gif)
+### iPhone Demo
+
+# Project Demo
 ![React Navigation v5 Mix App iPhone Demo](https://raw.githubusercontent.com/itzpradip/react-navigation-v5-mix/master/app-interaction-demo-iphone.gif)
 ### iPhone Demo
 
