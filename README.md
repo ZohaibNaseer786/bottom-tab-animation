@@ -1,4 +1,4 @@
-# React Navigation v5 mix
+<!-- # React Navigation v5 mix
 
 This project is part of YouTube tutorial series on React Navigation 5. Here I have used every navigator option available and combine them in a single project to create a seemless user navigation experience for the app user.
 
@@ -15,7 +15,7 @@ Here you can find complete tutorial series and each video link.
 - [Material Bottom Tab Navigator Tutorial](https://youtu.be/RSzITFbOtpQ)
 - [Drawer Navigator Tutorial](https://youtu.be/2Tj9y8lfiyo)
 - [Stack Navigator Tutorial](https://youtu.be/a9jSyZXYGn8)
-
+ -->
 
 # Project Demo
 ![React Navigation v5 Mix App iPhone Demo](https://raw.githubusercontent.com/itzpradip/react-navigation-v5-mix/master/app-interaction-demo-iphone.gif)
